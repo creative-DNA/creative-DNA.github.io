@@ -201,8 +201,7 @@ h5{
 .heading-inner:after{
 	position: absolute;
 	content:"";
-	border-top: 1px dotted#ddd;
-	border-bottom: 1px dotted#ddd;
+	
 	width: 330px;
 	left: 0px;
 	top: 25px;
@@ -212,8 +211,7 @@ h5{
 .heading-inner:before{
 	position: absolute;
 	content:"";
-	border-top: 1px dotted#ddd;
-	border-bottom: 1px dotted#ddd;
+	
 	width: 330px;
 	right: 0px;
 	top: 25px;
